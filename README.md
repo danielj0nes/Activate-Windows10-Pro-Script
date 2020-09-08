@@ -1,4 +1,4 @@
-# activate_windows10_pro_script
+# Activate Windows 10 Pro
 
 This script requires you to have a non-activated version of Windows 10 Pro installed on your machine. 
 
